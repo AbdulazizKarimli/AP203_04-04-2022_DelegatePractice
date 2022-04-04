@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache

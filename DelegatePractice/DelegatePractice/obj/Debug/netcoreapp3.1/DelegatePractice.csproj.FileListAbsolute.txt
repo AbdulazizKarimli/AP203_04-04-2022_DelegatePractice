@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_04-04-2022_IEnumerablePractice\DelegatePractice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.genruntimeconfig.cache
